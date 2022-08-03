@@ -1,0 +1,15 @@
+I:\GEEKBRAINS\3. Языки программирования\Examples\bin\Debug\net6.0\Examples.exe
+I:\GEEKBRAINS\3. Языки программирования\Examples\bin\Debug\net6.0\Examples.deps.json
+I:\GEEKBRAINS\3. Языки программирования\Examples\bin\Debug\net6.0\Examples.runtimeconfig.json
+I:\GEEKBRAINS\3. Языки программирования\Examples\bin\Debug\net6.0\Examples.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\bin\Debug\net6.0\Examples.pdb
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\Examples.csproj.AssemblyReference.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\Examples.AssemblyInfoInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\Examples.AssemblyInfo.cs
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\Examples.csproj.CoreCompileInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\Examples.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\refint\Examples.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\Examples.pdb
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\Examples.genruntimeconfig.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\obj\Debug\net6.0\ref\Examples.dll
