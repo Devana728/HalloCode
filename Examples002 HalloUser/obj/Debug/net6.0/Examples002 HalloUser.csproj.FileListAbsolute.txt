@@ -1,0 +1,15 @@
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\bin\Debug\net6.0\Examples002 HalloUser.exe
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\bin\Debug\net6.0\Examples002 HalloUser.deps.json
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\bin\Debug\net6.0\Examples002 HalloUser.runtimeconfig.json
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\bin\Debug\net6.0\Examples002 HalloUser.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\bin\Debug\net6.0\Examples002 HalloUser.pdb
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\Examples002 HalloUser.csproj.AssemblyReference.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\Examples002 HalloUser.GeneratedMSBuildEditorConfig.editorconfig
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\Examples002 HalloUser.AssemblyInfoInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\Examples002 HalloUser.AssemblyInfo.cs
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\Examples002 HalloUser.csproj.CoreCompileInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\Examples002 HalloUser.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\refint\Examples002 HalloUser.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\Examples002 HalloUser.pdb
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\Examples002 HalloUser.genruntimeconfig.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples002 HalloUser\obj\Debug\net6.0\ref\Examples002 HalloUser.dll
