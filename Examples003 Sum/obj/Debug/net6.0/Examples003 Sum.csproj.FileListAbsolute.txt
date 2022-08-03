@@ -1,0 +1,15 @@
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\bin\Debug\net6.0\Examples003 Sum.exe
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\bin\Debug\net6.0\Examples003 Sum.deps.json
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\bin\Debug\net6.0\Examples003 Sum.runtimeconfig.json
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\bin\Debug\net6.0\Examples003 Sum.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\bin\Debug\net6.0\Examples003 Sum.pdb
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\Examples003 Sum.csproj.AssemblyReference.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\Examples003 Sum.GeneratedMSBuildEditorConfig.editorconfig
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\Examples003 Sum.AssemblyInfoInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\Examples003 Sum.AssemblyInfo.cs
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\Examples003 Sum.csproj.CoreCompileInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\Examples003 Sum.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\refint\Examples003 Sum.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\Examples003 Sum.pdb
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\Examples003 Sum.genruntimeconfig.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples003 Sum\obj\Debug\net6.0\ref\Examples003 Sum.dll
