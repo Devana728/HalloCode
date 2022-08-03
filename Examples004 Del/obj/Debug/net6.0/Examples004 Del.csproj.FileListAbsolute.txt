@@ -1,0 +1,15 @@
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\bin\Debug\net6.0\Examples004 Del.exe
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\bin\Debug\net6.0\Examples004 Del.deps.json
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\bin\Debug\net6.0\Examples004 Del.runtimeconfig.json
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\bin\Debug\net6.0\Examples004 Del.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\bin\Debug\net6.0\Examples004 Del.pdb
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\Examples004 Del.csproj.AssemblyReference.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\Examples004 Del.GeneratedMSBuildEditorConfig.editorconfig
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\Examples004 Del.AssemblyInfoInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\Examples004 Del.AssemblyInfo.cs
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\Examples004 Del.csproj.CoreCompileInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\Examples004 Del.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\refint\Examples004 Del.dll
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\Examples004 Del.pdb
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\Examples004 Del.genruntimeconfig.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples004 Del\obj\Debug\net6.0\ref\Examples004 Del.dll
