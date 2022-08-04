@@ -1,0 +1,5 @@
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples005 IfElse\obj\Debug\net6.0\Examples005 IfElse.csproj.AssemblyReference.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples005 IfElse\obj\Debug\net6.0\Examples005 IfElse.GeneratedMSBuildEditorConfig.editorconfig
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples005 IfElse\obj\Debug\net6.0\Examples005 IfElse.AssemblyInfoInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples005 IfElse\obj\Debug\net6.0\Examples005 IfElse.AssemblyInfo.cs
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples005 IfElse\obj\Debug\net6.0\Examples005 IfElse.csproj.CoreCompileInputs.cache
