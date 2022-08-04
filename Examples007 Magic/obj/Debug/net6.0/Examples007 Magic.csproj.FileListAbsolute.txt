@@ -1,0 +1,5 @@
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples007 Magic\obj\Debug\net6.0\Examples007 Magic.csproj.AssemblyReference.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples007 Magic\obj\Debug\net6.0\Examples007 Magic.GeneratedMSBuildEditorConfig.editorconfig
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples007 Magic\obj\Debug\net6.0\Examples007 Magic.AssemblyInfoInputs.cache
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples007 Magic\obj\Debug\net6.0\Examples007 Magic.AssemblyInfo.cs
+I:\GEEKBRAINS\3. Языки программирования\Examples\Examples007 Magic\obj\Debug\net6.0\Examples007 Magic.csproj.CoreCompileInputs.cache
